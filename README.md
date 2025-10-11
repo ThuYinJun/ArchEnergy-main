@@ -54,7 +54,7 @@ Abstract: *The building sector, particularly office buildings, accounts for a si
 ## Train
 
 ```
-python ArchEnergy_Train.py --dataset ArchiMeshNet --batch_size 32
+python ArchEnergy_Train.py --dataset ArchiMeshNet --batch_size 32 --epoch 2000
 
 ```
 
