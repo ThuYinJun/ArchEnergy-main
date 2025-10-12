@@ -59,8 +59,8 @@ python ArchEnergy_Train.py --dataset ArchiMeshNet --batch_size 32 --epoch 2000
 ```
 
 
-## Sample
+## Predict
 
 ```
-python ArchEnergy_Sample.py --dataset ArchiMetricsNet --batch_size 32   --model_path ckpts/exp/model10000.pt --natural_ventilation True --envelope_performance high
+python ArchEnergy_Predict.py --dataset ArchiMetricsNet --batch_size 32   --model_path ckpts/exp/model10000.pt --natural_ventilation True --envelope_performance high
 ```
