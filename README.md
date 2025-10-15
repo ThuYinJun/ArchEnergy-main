@@ -12,16 +12,16 @@ Abstract: *The building sector, particularly office buildings, accounts for a si
 *Figure 2) The Exportation Procedure of the ArchiMeshNet Dataset.*
 ![img](assets/2.jpg)
 
-*Figure 3)  Sample 3D building models from the ArchiMeshNet dataset, showcasing rich semantic variation and high geometric quality.*
+*Figure 3)  The Simulation Workflow Based on Climate Studio.*
 ![img](assets/3.png)
 
-*Figure 4) The Simulation Workflow Based on Climate Studio.*
+*Figure 4) Single-view 3D Mesh Reconstruction Using a Diffusion-based Framework.*
 ![img](assets/4.jpg)
 
-*Figure 5) Single-view 3D Mesh Reconstruction Using a Diffusion-based framework.*
+*Figure 5) Model Architecture for Building Energy Consumption Prediction.*
 ![img](assets/5.jpg)
 
-*Figure 6) Model Architecture for Building Energy Consumption Prediction.*
+*Figure 6) Annual EUI Scatter: GT vs. Prediction (Six Scenarios).*
 ![img](assets/6.png)
 
 
