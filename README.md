@@ -5,6 +5,13 @@ Abstract: *The building sector, particularly office buildings, accounts for a si
 
 [**Dataset**](https://pan.baidu.com/s/1k2IdBzup-fldZOS8dPYdnA?pwd=8888) |[**Paper**]() | [**Project Page**]() | [**Model Weights**]() | [**Huggingface Demo**]() |
 
+## TODO List
+
+- [x] Release part of ArchiMeshNet dataset. 
+- [ ] Release ArchEnergy inference code and pretrain weights.
+- [ ] Upload ArchiMeshNet training dataset.
+- [ ] Release ArchEnergy code.
+
 
 *Figure 1) Comparative Workflows for Building Energy Simulation: From Traditional 3D Modeling to the Proposed ArchEnergy Framework..*
 ![img](assets/1.png)
@@ -27,12 +34,6 @@ Abstract: *The building sector, particularly office buildings, accounts for a si
 
 
 
-## TODO List
-
-- [x] Release part of ArchiMeshNet dataset. 
-- [ ] Release ArchEnergy inference code and pretrain weights.
-- [ ] Upload ArchiMeshNet training dataset.
-- [ ] Release ArchEnergy code.
 
 
 ## Train
