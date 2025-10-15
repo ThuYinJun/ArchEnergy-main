@@ -10,37 +10,21 @@ Abstract: *The building sector, particularly office buildings, accounts for a si
 ![img](assets/1.png)
 
 *Figure 2) The Exportation Procedure of the ArchiMeshNet Dataset.*
-![img](assets/2.png)
+![img](assets/2.jpg)
 
 *Figure 3)  Sample 3D building models from the ArchiMeshNet dataset, showcasing rich semantic variation and high geometric quality.*
 ![img](assets/3.png)
 
 *Figure 4) The Simulation Workflow Based on Climate Studio.*
-![img](assets/4.png)
+![img](assets/4.jpg)
 
 *Figure 5) Single-view 3D Mesh Reconstruction Using a Diffusion-based framework.*
-![img](assets/5.png)
+![img](assets/5.jpg)
 
 *Figure 6) Model Architecture for Building Energy Consumption Prediction.*
 ![img](assets/6.png)
 
-*Figure 7) Comparison of reconstruction methods on the ArchiMeshNet dataset. The first column shows the input image, and the remaining columns present results from baseline models..*
-![img](assets/7.png)
 
-*Figure 8) Figure 8. Visualization of multi-view generation results. Each row shows an input image (leftmost) and four corresponding novel views synthesized by the proposed method. *
-![img](assets/8.png)
-
-*Figure 9) Feature-wise Root Mean Squared Error (RMSE) for Energy Prediction.*
-![img](assets/9.png)
-
-*Figure 10) Multi-category Energy Prediction vs. Ground Truth Scatter Plot. Unit: kWh/m2a*
-![img](assets/10.png)
-
-*Figure 11) 3D mesh, scatter plot, and per-category monthly prediction curves for Case 1. Unit: kWh/m2a*
-![img](assets/11.png)
-
-*Figure 12) 3D mesh, scatter plot, and per-category monthly prediction curves for Case 2. Unit: kWh/m2a.*
-![img](assets/12.png)
 
 
 ## TODO List
